@@ -69,8 +69,6 @@
 
 
 
-
-
 class Voiture:
     def __init__(self, marque, modele, couleur):
         self.marque = marque
